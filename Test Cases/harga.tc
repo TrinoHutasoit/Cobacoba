@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>harga</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b6d8d68f-a0e9-4a52-bbcf-f650d8477436</testCaseGuid>
+   <variable>
+      <defaultValue>findTestData('kamar')</defaultValue>
+      <description></description>
+      <id>295c695d-4263-4ccf-abab-42787c3be415</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Gadai</name>
+   <tag></tag>
+   <elementGuidId>5ffc65de-17aa-4565-a358-ec7e6984296e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='M24Frontm24-1456435477']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[2]/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gadai</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;M24Frontm24-1456435477&quot;)/div[@class=&quot;v-view v-app-home&quot;]/div[@class=&quot;v-verticallayout&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;v-splitpanel-horizontal&quot;]/div[1]/div[@class=&quot;v-splitpanel-first-container v-scrollable&quot;]/div[@class=&quot;v-verticallayout&quot;]/div[1]/div[2]/div[1]/div[@class=&quot;v-panel&quot;]/div[@class=&quot;v-panel-content v-scrollable&quot;]/div[@class=&quot;v-verticallayout&quot;]/div[1]/div[1]/div[1]/div[@class=&quot;v-tree&quot;]/div[1]/div[@class=&quot;v-tree-node v-tree-node-expanded v-tree-node-root&quot;]/div[@class=&quot;v-tree-node-children v-tree-node-children-root&quot;]/div[@class=&quot;v-tree-node&quot;]/div[@class=&quot;v-tree-node-caption&quot;]/div[1]/span[1]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='M24Frontm24-1456435477']/div/div[2]/div/div[2]/div/div/div/div[2]/div/div/div[2]/div/div/div[2]/div/div/div/div/div/div/div/div[2]/div[2]/div/div/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetak Somasi Titipan Emas'])[1]/following::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kredit'])[1]/following::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Mikro'])[1]/preceding::span[1]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pengajuan Mulia Baru'])[1]/preceding::span[2]</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Gadai']/parent::*</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/span</value>
+   </webElementXpaths>
+</WebElementEntity>
